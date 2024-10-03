@@ -21,5 +21,5 @@ palabras = ['saludos','México','Mundo']
 if any(palabra in test for palabra in palabras):
    print("Son saludos")
 
-import re
-re.findall(r'saludos|México',L)
+#import re
+#re.findall(r'saludos|México',L)
