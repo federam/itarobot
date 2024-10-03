@@ -20,4 +20,6 @@ Cada vez que de la Raspberry quieras cambiar un archivo del repositorio:
 4. Ejecutar `git commit -m "Mensaje de que cambio hice"`
 5. Finalmente ejecutar `git push --set-upstream origin main`
 
+## LangChain
 
+https://python.langchain.com/docs/integrations/llms/openai/
