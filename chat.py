@@ -57,4 +57,4 @@ def assistant_step():
     habla(pensamiento)
 
 while(True):
-    assistant_step()
+    assistant_step() 
